@@ -188,10 +188,3 @@ out/
 .metadata
 bin/
 tmp/
-*.tmp
-*.bak
-nbproject/
-nbbuild/
-nbdist/
-nbactions.xml
-*.swp
