@@ -1,7 +1,0 @@
-# Open .gitignore in your editor or use cat command to overwrite
-cat > .gitignore << 'EOF'
-# ========================================
-# Python - Comprehensive
-# ========================================
-__pycache__/
-*.py[cod]
